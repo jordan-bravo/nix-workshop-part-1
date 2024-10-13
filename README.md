@@ -34,7 +34,7 @@ We'll focus on three use cases
 
 ## Where does nix get its packages?
 - `nixpkgs`, pronounced "nix packages", is main repo of the project.
-- it's the largest in the world by far, with over 80,000 packages.
+- it's the largest in the world by far, with over 100,000 packages.
 - https://repology.org/repositories/graphs
 
 ![repo-sizes](https://github.com/jordan-bravo/nix-workshop-part-1/assets/62706808/5cd40559-f9c0-43d5-ae3c-1893fd02d629)
